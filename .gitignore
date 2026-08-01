@@ -1,0 +1,9 @@
+.DS_Store
+.gradle/
+.kotlin/
+build/
+out/
+*.iml
+.idea/
+__pycache__/
+*.pyc

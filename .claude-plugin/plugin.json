@@ -1,0 +1,22 @@
+{
+  "name": "kotlin-skills",
+  "version": "0.1.0",
+  "description": "Production-ready Kotlin language, engineering, and lossless Java migration skills",
+  "author": {
+    "name": "PartMe.AI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-stack-skills/kotlin-skills",
+  "repository": "https://github.com/full-stack-skills/kotlin-skills",
+  "source": "./",
+  "skills": [
+    "./skills/kotlin-stable",
+    "./skills/kotlin-gradle-build",
+    "./skills/kotlin-coroutines",
+    "./skills/kotlin-testing",
+    "./skills/kotlin-code-review",
+    "./skills/kotlin-java-migration",
+    "./skills/kotlin-java-migration-testing"
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {"id":"stable-nullability","prompt":"Fix a Kotlin nullability and variance compiler error without unsafe casts.","expected_skills":["kotlin-stable"],"assertions":["checks project language and JVM target","preserves type safety","runs compilation"]},
+    {"id":"gradle-multimodule","prompt":"Create a reproducible Kotlin JVM multi-module Gradle build.","expected_skills":["kotlin-gradle-build"],"assertions":["pins compatible toolchains","uses Kotlin DSL","runs Gradle check"]},
+    {"id":"coroutine-cancellation","prompt":"Repair a coroutine pipeline that leaks work after request cancellation.","expected_skills":["kotlin-coroutines"],"assertions":["preserves structured concurrency","propagates cancellation","tests lifecycle"]},
+    {"id":"testing-contract","prompt":"Add deterministic tests for a Flow-backed service and its adapters.","expected_skills":["kotlin-testing"],"assertions":["tests observable contracts","avoids fixed sleeps","covers adapters"]},
+    {"id":"review-kotlin","prompt":"Review this Kotlin change for correctness and production risk.","expected_skills":["kotlin-code-review"],"assertions":["findings are severity ordered","each finding cites evidence","does not mutate code"]},
+    {"id":"java-migration","prompt":"Migrate a Java library to Kotlin without simplifying semantics.","expected_skills":["kotlin-java-migration"],"assertions":["builds object and member ledger","preserves contracts","uses Kotlin-native implementation"]},
+    {"id":"java-migration-acceptance","prompt":"Prove that a Java-to-Kotlin migration is complete.","expected_skills":["kotlin-java-migration-testing","kotlin-testing"],"assertions":["requires 100 percent source tests","requires byte-identical assets","requires project-test module and full differential MATCH"]}
+  ]
+}
+
