@@ -1,5 +1,6 @@
 ---
 name: kotlin-java-migration-testing
+license: Apache-2.0
 description: Prove Java-to-Kotlin migration completeness through 100 percent lossless source-test implementation, byte-identical source assets, dedicated whole-project test modules, full Java/Kotlin differential execution, Kotlin-specific risk tests, and auditable evidence. Use after or during kotlin-java-migration; coverage alone never satisfies this skill.
 ---
 

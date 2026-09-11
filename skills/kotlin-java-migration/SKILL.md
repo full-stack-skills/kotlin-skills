@@ -1,5 +1,6 @@
 ---
 name: kotlin-java-migration
+license: Apache-2.0
 description: Migrate Java systems to Kotlin without semantic simplification by inventorying every production object and member, preserving public behavior and compatibility, mapping Java frameworks deliberately, implementing Kotlin-native code, and maintaining a machine-checkable migration ledger. Use for Java-to-Kotlin ports, rewrites, compatibility layers, or migration-completeness work; pair with kotlin-java-migration-testing for proof.
 ---
 

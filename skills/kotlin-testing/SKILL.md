@@ -1,5 +1,6 @@
 ---
 name: kotlin-testing
+license: Apache-2.0
 description: Design high-value Kotlin tests across unit, integration, coroutine, property, contract, adapter, end-to-end, load, and regression layers using JUnit, Kotest, MockK, Turbine, Testcontainers, or project-native tools. Use to create or assess Kotlin tests, fixtures, coverage, determinism, mutation sensitivity, and whole-project acceptance modules.
 ---
 

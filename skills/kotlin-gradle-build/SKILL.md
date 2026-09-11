@@ -1,5 +1,6 @@
 ---
 name: kotlin-gradle-build
+license: Apache-2.0
 description: Design, repair, and validate Kotlin Gradle builds using Kotlin DSL, version catalogs, Java toolchains, multi-module boundaries, dependency scopes, compiler options, reproducible CI, publishing, and cache-safe tasks. Use for settings.gradle.kts, build.gradle.kts, gradle.properties, wrapper, module layout, dependency, toolchain, or CI problems.
 ---
 

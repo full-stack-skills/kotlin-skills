@@ -1,5 +1,6 @@
 ---
 name: kotlin-code-review
+license: Apache-2.0
 description: Review Kotlin changes for correctness, compatibility, concurrency, nullability, API, security, performance, test quality, and Gradle integration. Use when asked to review, audit, assess risk, or explain defects in Kotlin code; produce evidence-backed findings without modifying code unless a fix is explicitly requested.
 ---
 

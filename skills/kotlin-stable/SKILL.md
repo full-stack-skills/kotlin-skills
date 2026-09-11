@@ -1,5 +1,6 @@
 ---
 name: kotlin-stable
+license: Apache-2.0
 description: Implement and diagnose stable Kotlin language semantics for JVM projects, including null safety, types, generics, variance, classes, interfaces, sealed hierarchies, delegation, exceptions, and Java interoperability. Use for Kotlin source changes and compiler errors; combine with specialized build, coroutine, testing, review, or migration skills when those domains are present.
 ---
 

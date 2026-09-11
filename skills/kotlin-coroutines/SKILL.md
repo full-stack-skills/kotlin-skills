@@ -1,5 +1,6 @@
 ---
 name: kotlin-coroutines
+license: Apache-2.0
 description: Implement and review Kotlin structured concurrency with suspend functions, CoroutineScope, dispatchers, Flow, channels, cancellation, timeouts, supervision, context propagation, and deterministic coroutine testing. Use when code imports kotlinx.coroutines, exposes suspend or Flow APIs, crosses blocking boundaries, or has lifecycle, race, leak, or cancellation defects.
 ---
 
